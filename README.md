@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Budget Tracking App
 
 This is a budget tracking web application built with Next.js, TypeScript, Tailwind CSS, ShadCN UI components, and Supabase backend.
@@ -58,6 +57,3 @@ For the budget app to work properly on Vercel, you need to set up your Supabase 
 - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Budget-App
->>>>>>> f2c262fceb17716e24e8fd7b4fd9e9381e366795
